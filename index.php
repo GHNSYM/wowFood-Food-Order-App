@@ -41,7 +41,7 @@
               alt="image of burger"
               class="image-responsive img-curve"
             />
-            <h3 class="float-text text-white">Pizza</h3>
+            <h3 class="float-text text-white">Burger</h3>
           </div>
         </a>
         <a href="#">
@@ -51,7 +51,7 @@
               alt="image of momo"
               class="image-responsive img-curve"
             />
-            <h3 class="float-text text-white">Pizza</h3>
+            <h3 class="float-text text-white">Dumplings</h3>
           </div>
         </a>
         <div class="clearfix"></div>
